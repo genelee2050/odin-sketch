@@ -1,0 +1,31 @@
+.title {
+    text-align: center;
+    color: burlywood;
+}
+
+.prompt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+.btn {
+    min-width: 75px;
+    min-height: 20px;
+    color: gray;
+    border: dotted 2px burlywood;
+}
+
+.container {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: solid 2px gray;
+}
+
+.square {
+    box-sizing: border-box;
+}
